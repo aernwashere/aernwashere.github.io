@@ -1,0 +1,13 @@
+body{
+    font-family: 'DM Serif Display', serif;
+    background-image: url("assets/bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.heading{
+    font-family: 'DM Serif Display', serif;        
+}
+.subheading{
+    font-family: 'Open Sans', sans-serif;
+}
